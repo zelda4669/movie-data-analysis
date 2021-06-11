@@ -20,6 +20,16 @@
 
 ## Findings
 
+### Actor Profitability
+
+There is a significant market gap for big budget films led by women. A tentpole movie with a female lead has the potential to stand out from the crowd.
+
+Looking at most profitable actors, the majority of their profits come from Marvel movies -- this points towards a desire for superhero movies, but the absense of non-Marvel superhero movies leads to the conclusion that further analysis is needed to determine whether Marvel's monopoly can be broken.
+
+![Top Grossing Actor Popularity]()
+
+![Actor Profitability]()
+
 ### Domestic ROI
 
 In general, while big budget movies may produce the largest box office numbers, modest budgets provide a much greater ROI. The median budget for top ROI movies is **\$2.75MM**
