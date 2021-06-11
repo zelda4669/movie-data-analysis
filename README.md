@@ -26,9 +26,9 @@ There is a significant market gap for big budget films led by women. A tentpole 
 
 Looking at most profitable actors, the majority of their profits come from Marvel movies -- this points towards a desire for superhero movies, but the absense of non-Marvel superhero movies leads to the conclusion that further analysis is needed to determine whether Marvel's monopoly can be broken.
 
-![Top Grossing Actor Popularity]()
+![Top Grossing Actor Popularity](https://github.com/zelda4669/movie-data-analysis/blob/noelle-wip/Charts%20and%20Graphs/Top%20Grossing%20Actor%20Popularity.png)
 
-![Actor Profitability]()
+![Actor Profitability](https://github.com/zelda4669/movie-data-analysis/blob/noelle-wip/Charts%20and%20Graphs/Actor%20Profitability.png?raw=true)
 
 ### Domestic ROI
 
